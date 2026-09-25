@@ -16,8 +16,8 @@ Antigravity（バイブコーディング）を活用して個人開発したア
 </p>
 
 - **Category:** ニュース / 情報収集
-- **Platform:** iOS
-- **Tech Stack:** `Flutter` `Antigravity` `Firebase`
+- **Platform:** iOS, Android
+- **Tech Stack:** `Flutter` `Antigravity`
 - **Key Features:**
   - ノイズを削ぎ落としたミニマルなUIで、複数フィードをサクサク巡回
   - お気に入り登録・既読管理
@@ -35,7 +35,7 @@ Antigravity（バイブコーディング）を活用して個人開発したア
 </p>
 
 - **Category:** ブック / ユーティリティ
-- **Platform:** iOS
+- **Platform:** iOS, Android
 - **Tech Stack:** `Flutter` `Antigravity`
 - **Key Features:**
   - 小説・テキストの縦書き / 横書き表示切り替え
@@ -50,6 +50,7 @@ Antigravity（バイブコーディング）を活用して個人開発したア
 思考やインスピレーションを形にするためのクリエイティブ支援アプリ。
 
 - **Category:** 生産性 / クリエイティブ
+- **Platform:** iOS, Android
 - **Tech Stack:** `Flutter` `Antigravity`
 - **Key Features:**
   - 思考の流れを邪魔しない、極限までシンプルな入力体験
@@ -64,6 +65,7 @@ Antigravity（バイブコーディング）を活用して個人開発したア
 モールス信号と基板（PCB）デザインの世界観を融合させたユニークなツール／アプリ。
 
 - **Category:** ハードウェア連携 / ツール
+- **Platform:** iOS, Android
 - **Tech Stack:** `Flutter` `Antigravity`
 - **Key Features:**
   - モールス信号の送受信・テキスト変換シミュレーション
@@ -78,6 +80,7 @@ Antigravity（バイブコーディング）を活用して個人開発したア
 北欧テイストの静謐なデザインと心地よい音色を楽しむオルゴールアプリ。
 
 - **Category:** ミュージック / リラクゼーション
+- **Platform:** iOS, Android
 - **Tech Stack:** `Flutter` `Antigravity` `Audio Engine`
 - **Key Features:**
   - 温かみのあるオルゴールサウンドの再生・シミュレーション
@@ -97,7 +100,9 @@ $ rss list
 $ rss read [feed-id]
 
 ```
-
+- **Category:** ニュース / 情報収集
+- **Platform:** iOS, Android
+- **Tech Stack:** `Flutter` `Antigravity`
 * キーボード操作だけで最新ニュースやブログ記事を高速ブラウズ
 * 外部ブラウザへのスマートなURL受け渡し
 * 軽量・低リソース設計でターミナル作業中の情報チェックに最適
@@ -110,7 +115,7 @@ $ rss read [feed-id]
 ## 📬 Contact & Links
 
 * **note:** [@noted_briony6812](https://note.com/noted_briony6812)
-* **X (Twitter):** [@ropedowner](https://x.com/?utm_source=gemini)
+* **X (Twitter):** [@ropedowner](https://x.com/ropedowner)
 
 ---
 

@@ -11,9 +11,10 @@ Antigravity（バイブコーディング）を活用して個人開発したア
 シンプルさと快適な情報収集体験を追求したRSSリーダー。
 
 <p align="center">
-  <!-- スクリーンショットがある場合はパスを指定してください -->
+  <!-- スクリーンショットがある場合はパスを指定してください
   <img src="assets/matome-rss.png" alt="まとめRSS スクリーンショット" width="600" />
 </p>
+ -->
 
 - **Category:** ニュース / 情報収集
 - **Platform:** iOS, Android

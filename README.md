@@ -11,10 +11,10 @@ Antigravity（バイブコーディング）を活用して個人開発したア
 シンプルさと快適な情報収集体験を追求したRSSリーダー。
 
 <p align="center">
-  <!-- スクリーンショットがある場合はパスを指定してください
+<!-- スクリーンショットがある場合はパスを指定してください
   <img src="assets/matome-rss.png" alt="まとめRSS スクリーンショット" width="600" />
 </p>
- -->
+-->
 
 - **Category:** ニュース / 情報収集
 - **Platform:** iOS, Android
@@ -30,10 +30,6 @@ Antigravity（バイブコーディング）を活用して個人開発したア
 
 ### 2. Hiraku (漫画・小説ビューア)
 作品への没入感を第一に設計した、クリーンな電子書籍・テキストビューア。
-
-<p align="center">
-  <img src="assets/hiraku.png" alt="Hiraku スクリーンショット" width="600" />
-</p>
 
 - **Category:** ブック / ユーティリティ
 - **Platform:** iOS, Android

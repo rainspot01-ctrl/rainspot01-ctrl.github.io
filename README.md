@@ -94,12 +94,6 @@ Antigravity（バイブコーディング）を活用して個人開発したア
 ### 6. CLI RSS Reader
 ターミナル上で素早く情報収集を完結させるための軽量コマンドラインツール。
 
-```bash
-# ターミナルから直接フィードを取得・閲覧
-$ rss list
-$ rss read [feed-id]
-
-```
 - **Category:** ニュース / 情報収集
 - **Platform:** iOS, Android
 - **Tech Stack:** `Flutter` `Antigravity`
